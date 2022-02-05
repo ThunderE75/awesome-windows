@@ -1,13 +1,13 @@
 # Useful Apps
 
 
-## Table of Contents
+<!-- ## Table of Contents -->
+
+<!-- how the fuck do i add this ? -->
 
 ## Common
 
 - Password Manager [Bitwarden](https://bitwarden.com/) (alt. [KeepassXC](https://keepassxc.org/) *as airgapped backup*) 
-- 
-
 
 ## Communication
 
@@ -72,7 +72,7 @@
 - Flow Charts & Diagrams - [Draw.io](https://github.com/jgraph/drawio) - [Web](https://app.diagrams.net/)
 - Prototyping - [Figma](https://www.figma.com/)
 
-> *All the Adobe CC Products 2022 are pretty expensive, right[?]()*
+> *All the Adobe CC Products 2022 are pretty expensive, right[?](https://github.com/ThunderE75/useful-windows-apps/blob/3b6ce09aba9c97dc89c8aaa4e7eacc53bad28722/assets/Adobe-cc-2022.svg)*
 
 ### Developement
 
@@ -96,7 +96,7 @@
 
 #### Visual Studio Code Extensions
 
-- Extensions (Unique)
+- Extensions
     - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
     - [Bin Uploader](https://marketplace.visualstudio.com/items?itemName=jacprosser.sourcebinuploader)
     - [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
@@ -104,8 +104,7 @@
     - [Edit CSV](https://marketplace.visualstudio.com/items?itemName=janisdd.vscode-edit-csv)
     - [Excel Viewer](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer)
 
-
-- Extensions (Common)
+- More Common Extensions
     - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
     - [Github Repository](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub)
     - [Github Pull Request & Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
