@@ -11,20 +11,17 @@
 
 ## Communication
 
-- Session
-- Matrix Client - [Element]
-- Signal
-- Discord
-- SMS Organizer (SMS Client)
-- Discord **(Thunder#2128)**
-- Telegram
+- [Session](https://getsession.org/)
+- Matrix Client - [Element](https://element.io/)
+- [Signal](https://signal.org/en/)
+- [Discord](https://discord.com/) **(Thunder#2128)**
+- [SMS Organizer](https://play.google.com/store/apps/details?id=com.microsoft.android.smsorganizer) (SMS Client)
+- Telegram Client - [Nekogram X](https://github.com/NekoX-Dev/NekoX)
 - Unfortunatally Whatsapp
 
 <details>
     <summary>Contact Me</summary>
-    Session ID: Test
-    Discord: Thunder#2128
-
+    Session ID: Soon™ 
 </details>
 
 
@@ -33,8 +30,9 @@
 ### Web Browser
 
 - [Brave](https://brave.com/) prefered for both web & mobile browsers
-- ~~[Firefox]~~ - Alternative Web Browser
-- [Edge (Chromium)] - **With Telemetry Disabled** *(as much as possible)* Used just for Research (because of Smoothness & Native Vertical Tabs)
+- ~~[Firefox](https://firefox.com/)~~ - Alternative Web Browser
+- [Edge (Chromium)](https://www.microsoft.com/en-us/edge) - **With Telemetry Disabled** *(as much as possible)* Used just for Research (because of Smoothness & Native Vertical Tabs)
+> I have not tried [Vivaldi](https://vivaldi.com/), it's allegedly a good browser (but it's not completely Open Source)
 
 ### Useful Websites
 
@@ -50,8 +48,6 @@
 - YouTube Playlist Duration - [Chromium](https://chrome.google.com/webstore/detail/youtube-playlist-duration/pijbakhgmhhadeakaocjfockpndcpobk)
 - Link Bypass - [Fast Forward](https://github.com/FastForwardTeam/FastForward) (alt. ~~[Universal Bypass](https://github.com/Sainan/Universal-Bypass)~~)
 
-
-
 ## Android Apps
 
 - 2FA Client - [Authy](https://authy.com/) (alt. [Aegis](https://github.com/beemdevelopment/Aegis))
@@ -66,8 +62,6 @@
 
 ## Windows  
 
-
-
 ### Design
 
 - Raster Image - Photoshop (alt. [GIMP](https://www.gimp.org/))
@@ -78,12 +72,12 @@
 - Flow Charts & Diagrams - [Draw.io](https://github.com/jgraph/drawio) - [Web](https://app.diagrams.net/)
 - Prototyping - [Figma](https://www.figma.com/)
 
-> All the Adobe CC Products [2022 Precracked](https://mega.nz/folder/EZRzSaKY#9PFDmye9ZKgyxmxIFM69BA/file/lcYTCCSD)
+> *All the Adobe CC Products 2022 are pretty expensive, right[?]()*
 
 ### Developement
 
 - [Git](https://git-scm.com/downloads) *(it's git, you most likely have it already)*
-- Code Editor [VSCodium](https://github.com/VSCodium/vscodium) & [Atom](https://github.com/atom/atom) (to be used with [Github Desktop](https://desktop.github.com/))
+- Code Editor [VSCodium](https://github.com/VSCodium/vscodium) & [Atom](https://github.com/atom/atom) (to be used with [Github Desktop](https://desktop.github.com/) for resolving merge conflict)
 - Terminal [Windows Terminal](https://github.com/microsoft/terminal)
 - Notepad [Notepads](https://github.com/JasonStein/Notepads) (Alt. [Notepad 3](https://github.com/rizonesoft/Notepad3))
 - MongoDB Client GUI [Robo 3T](https://github.com/Studio3T/robomongo)
@@ -103,29 +97,31 @@
 #### Visual Studio Code Extensions
 
 - Extensions (Unique)
-    - Better Comments
-    - Bin Uploader
-    - CodeSnap
-    - Git Graph
+    - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+    - [Bin Uploader](https://marketplace.visualstudio.com/items?itemName=jacprosser.sourcebinuploader)
+    - [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
+    - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
     - [Edit CSV](https://marketplace.visualstudio.com/items?itemName=janisdd.vscode-edit-csv)
     - [Excel Viewer](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer)
 
 
 - Extensions (Common)
-    - GitLens
-    - Github Remote Repository
-    - Github Pull Request & Issues
-    - Path Intellisence
-    - Prettier
-    - Tabnine Pro
-    - SQL Tools
+    - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+    - [Github Repository](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub)
+    - [Github Pull Request & Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
+    - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+    - [Path Intellisence](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+    - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+    - [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
+    - [SQL Tools](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools)
 
 - Extensions (Visual)
     - [Material Icon Themes](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
     - [Image Preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
     - [SVG Preview](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview)
 
-- Themes (Dark)
-    - Atom One Dark Pro
-    - Horizon Extended
-    - True Dark Github Theme
+- Themes
+    - [Atom One Dark Pro](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
+    - [Atome One Light Pro](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight)
+    - [Horizon Extended](https://marketplace.visualstudio.com/items?itemName=LanceWilhelm.horizon-extended)
+    - [True Dark Github Theme](https://marketplace.visualstudio.com/items?itemName=MayowaPitan.true-dark-github-theme)
