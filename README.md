@@ -4,10 +4,17 @@
 <!-- ## Table of Contents -->
 
 <!-- how the fuck do i add this ? -->
+### Legend 
+
+- 🔸 An Open Source Alternative Needed. *(if you find one, open a PR)*
+- 💢 Applications with terrible User Interface (This is my opinion)
+- ❌ I no longer use that application for either because of performance issues (clunky) or 
+- (alt. [Stuff]()) Are the alternative i sometimes use
+- ~~Strikethrough~~ are unmaintained/outdated.
 
 ## Common
 
-- Password Manager [Bitwarden](https://bitwarden.com/) (alt. [KeepassXC](https://keepassxc.org/) *as airgapped backup*) 
+- Password Manager [Bitwarden](https://bitwarden.com/) (alt. 💢 [KeepassXC](https://keepassxc.org/) *as airgapped backup*) 
 
 ## Communication
 
@@ -24,17 +31,36 @@
     Session ID: Soon™ 
 </details>
 
+## Android Apps
+
+- 2FA Client - [Authy](https://authy.com/) (alt. [Aegis](https://github.com/beemdevelopment/Aegis))
+- Discord Client - [Original](https://discord.com/download) & [Allucord](https://github.com/Aliucord/Aliucord) (alt. [Bluecord](https://bluesmods.com/bluecord/))
+- Reddit Client - [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit)
+- Telegram Client - [Nekogram X](https://github.com/NekoX-Dev/NekoX)
+- Instagram Client - [Instander](https://thedise.me/instander/) (alt. 💢 [BarInsta](https://github.com/PsyGik/barinsta))
+- YouTube Replacement - [Vanced](https://vancedapp.com/) & [NewPipe](https://github.com/TeamNewPipe/NewPipe)
+- Podcast Client - [Pocket Casts](https://www.pocketcasts.com/) (alt. 💢 [AntennaPod](https://antennapod.org/))
+- Android Marketplace - 💢 [F-Droid](https://f-droid.org/) & [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore)
+- 🔸 Twitter Client - 
+- 🔸 Email Client - [Outlook](https://play.google.com/store/apps/details?id=com.microsoft.office.outlook) & [Spark](https://sparkmailapp.com/) & 💢 [Proton Mail](https://protonmail.com/)
+- 🔸 Money Management App - [Bluecoin](https://www.bluecoinsapp.com/) (alt. 💢 [My Expenses](https://github.com/mtotschnig/MyExpenses))
+- Wallet - [Cake Wallet](https://cakewallet.com/)
+- Time Table Management - [School Planner](https://play.google.com/store/apps/details?id=daldev.android.gradehelper) (alt. [Tabby Native](https://github.com/KDani-99/tabby-native))
+- [Caffeine Tile](https://f-droid.org/en/packages/info.zwanenburg.caffeinetile/) - To Keep Screen Awake
+- 🔸 Bussiness Card Scanner - 💢 [Card Reader](https://github.com/gpadmaku1/card-reader)
 
 ## Web Related
 
 ### Web Browser
 
 - [Brave](https://brave.com/) prefered for both web & mobile browsers
-- ~~[Firefox](https://firefox.com/)~~ - Alternative Web Browser
+- ❌ [Firefox](https://firefox.com/) - Alternative Web Browser
 - [Edge (Chromium)](https://www.microsoft.com/en-us/edge) - **With Telemetry Disabled** *(as much as possible)* Used just for Research (because of Smoothness & Native Vertical Tabs)
 > I have not tried [Vivaldi](https://vivaldi.com/), it's allegedly a good browser (but it's not completely Open Source)
 
 ### Useful Websites
+
+- Twitter Web Frontend - [Nitter](https://github.com/zedeus/nitter)
 
 ### Extensions
 
@@ -48,18 +74,6 @@
 - YouTube Playlist Duration - [Chromium](https://chrome.google.com/webstore/detail/youtube-playlist-duration/pijbakhgmhhadeakaocjfockpndcpobk)
 - Link Bypass - [Fast Forward](https://github.com/FastForwardTeam/FastForward) (alt. ~~[Universal Bypass](https://github.com/Sainan/Universal-Bypass)~~)
 
-## Android Apps
-
-- 2FA Client - [Authy](https://authy.com/) (alt. [Aegis](https://github.com/beemdevelopment/Aegis))
-- Discord Client - [Original](https://discord.com/download) & [Allucord](https://github.com/Aliucord/Aliucord) (alt. [Bluecord](https://bluesmods.com/bluecord/))
-- Reddit Client - [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit)
-- Telegram Client - [Nekogram X](https://github.com/NekoX-Dev/NekoX)
-- Instagram Client - [Instander](https://thedise.me/instander/) (alt. [BarInsta](https://github.com/PsyGik/barinsta))
-- YouTube Replacement - [Vanced](https://vancedapp.com/) & [NewPipe](https://github.com/TeamNewPipe/NewPipe)
-- Email Client - [Outlook](https://play.google.com/store/apps/details?id=com.microsoft.office.outlook) & [Spark](https://sparkmailapp.com/) & [Proton Mail](https://protonmail.com/)
-- Wallet - [Cake Wallet](https://cakewallet.com/)
-- [Caffeine Tile](https://f-droid.org/en/packages/info.zwanenburg.caffeinetile/) - To Keep Screen Awake
-
 ## Windows  
 
 ### Design
@@ -71,27 +85,37 @@
 - Screen Capture - [OBS Studio](https://obsproject.com/)
 - Flow Charts & Diagrams - [Draw.io](https://github.com/jgraph/drawio) - [Web](https://app.diagrams.net/)
 - Prototyping - [Figma](https://www.figma.com/)
+- Image Compressor - [Caesium](https://github.com/Lymphatus/caesium-image-compressor)
 
 > *All the Adobe CC Products 2022 are pretty expensive, right[?](https://github.com/ThunderE75/useful-windows-apps/blob/3b6ce09aba9c97dc89c8aaa4e7eacc53bad28722/assets/Adobe-cc-2022.svg)*
 
-### Developement
+### Developement 
 
 - [Git](https://git-scm.com/downloads) *(it's git, you most likely have it already)*
 - Code Editor [VSCodium](https://github.com/VSCodium/vscodium) & [Atom](https://github.com/atom/atom) (to be used with [Github Desktop](https://desktop.github.com/) for resolving merge conflict)
 - Terminal [Windows Terminal](https://github.com/microsoft/terminal)
-- Notepad [Notepads](https://github.com/JasonStein/Notepads) (Alt. [Notepad 3](https://github.com/rizonesoft/Notepad3))
+- Package Manager - [Chocolatey](https://community.chocolatey.org/) & [Winget](https://github.com/microsoft/winget-cli)
+- Notepad [Notepads](https://github.com/JasonStein/Notepads) (alt. [Notepad 3](https://github.com/rizonesoft/Notepad3))
 - MongoDB Client GUI [Robo 3T](https://github.com/Studio3T/robomongo)
 
 ### Miscellaneous
 
+- [Files Converter](https://file-converter.org/) - A Files Converter in Context Menu
 - Screenshots - [ShareX](https://getsharex.com/)
 - Everything File Search - [Everything Lite](https://www.voidtools.com/downloads/) & [Everything Toolbar](https://github.com/stnkl/EverythingToolbar)
-- Because Audiophile [Spotify](https://www.spotify.com/)
+- [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Better audio control
+- Because Audiophile [Spotify](https://www.spotify.com/) (alt. [BlackHole](https://github.com/Sangwan5688/BlackHole) & [BlockTheSpot](https://github.com/mrpond/BlockTheSpot))
 - Multimedia Player - [VLC](https://www.videolan.org/vlc/)
-- Torrent Client - [qBittorrent](https://www.qbittorrent.org/)
+- Torrent Client - [qBittorrent](https://www.qbittorrent.org/) + [qBitTorrent Search](https://github.com/qbittorrent/search-plugins)
 - DLL Downloader - [JDownloader2](https://jdownloader.org/jdownloader2)
-- Notion - [Notion Enhancer](https://notion-enhancer.github.io/)
-- [Desk Pins](https://efotinis.neocities.org/deskpins/) - for Pinning Windows
+- Notion - [Notion Enhancer](https://notion-enhancer.github.io/) (alt. [Appflowy](https://github.com/AppFlowy-IO/appflowy))
+- [Search Deflector](https://github.com/spikespaz/search-deflector) - Redirects Cortana to the default web browser
+- Audio Converter - [Recode](https://github.com/murgatt/recode-converter)
+- [Ventoy](https://github.com/ventoy/Ventoy) - Create Multibootable USB
+- EPUB Reader - [Thorium Reader](https://github.com/edrlab/thorium-reader)
+- 🔸 [Desk Pins](https://efotinis.neocities.org/deskpins/) - for Pinning Windows
+- ❌ [Modern Flyout](https://github.com/ModernFlyouts-Community/ModernFlyouts) - Changes the windows flyout UI
+- ❌ [Files](https://github.com/files-community/files/) & [xplorer](https://github.com/kimlimjustin/xplorer) - An alternative to File Explorer with Fluent Design
 
 
 #### Visual Studio Code Extensions
