@@ -4,8 +4,11 @@
 <!-- ## Table of Contents -->
 
 <!-- how the fuck do i add this ? -->
+## My version for [Awesome Windows](https://github.com/Awesome-Windows/Awesome) + [Awesome Android](https://github.com/JStumpp/awesome-android)
+
 ### Legend 
 
+- ✨ It's Magical, use it.
 - 🔸 An Open Source Alternative Needed. *(if you find one, open a PR)*
 - 💢 Applications with terrible User Interface (This is my opinion)
 - ❌ I no longer use that application for either because of performance issues (clunky) or 
@@ -49,6 +52,9 @@
 - [Caffeine Tile](https://f-droid.org/en/packages/info.zwanenburg.caffeinetile/) - To Keep Screen Awake
 - 🔸 Bussiness Card Scanner - 💢 [Card Reader](https://github.com/gpadmaku1/card-reader)
 
+### Entertainment
+- Anime - [Web](https://github.com/anshumanv/awesome-anime-sources) (alt. ❌ [AnimeXStream](https://github.com/mukul500/AnimeXStream))
+
 ## Web Related
 
 ### Web Browser
@@ -60,7 +66,13 @@
 
 ### Useful Websites
 
-- Twitter Web Frontend - [Nitter](https://github.com/zedeus/nitter)
+- 
+
+### Useful Websites Front Ends
+
+- YouTube - [Invidious](https://github.com/iv-org/invidious)
+- Twitter - [Nitter](https://github.com/zedeus/nitter)
+- Reddit - [Libreddit](https://github.com/spikecodes/libreddit)
 
 ### Extensions
 
@@ -78,7 +90,7 @@
 
 ### Design
 
-- Raster Image - Photoshop (alt. [GIMP](https://www.gimp.org/))
+- Raster Image - Photoshop (alt. [GIMP](https://www.gimp.org/) + [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP))
 - Vecors: [Inkscape](https://inkscape.org/) - [GitLab Repository](https://gitlab.com/inkscape/inkscape)
 - RAW Editing - Lightroom (alt. [Darktable](https://www.darktable.org/))
 - Video Editing - Premier Rush & [KdenLive](https://kdenlive.org/en/download/) ([Gitlab](https://invent.kde.org/multimedia/kdenlive))
@@ -100,22 +112,25 @@
 
 ### Miscellaneous
 
-- [Files Converter](https://file-converter.org/) - A Files Converter in Context Menu
+- ✨ [Files Converter](https://file-converter.org/) - A Files Converter in Context Menu
 - Screenshots - [ShareX](https://getsharex.com/)
-- Everything File Search - [Everything Lite](https://www.voidtools.com/downloads/) & [Everything Toolbar](https://github.com/stnkl/EverythingToolbar)
+- ✨ Everything File Search - [Everything Lite](https://www.voidtools.com/downloads/) & [Everything Toolbar](https://github.com/stnkl/EverythingToolbar)
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Better audio control
-- Because Audiophile [Spotify](https://www.spotify.com/) (alt. [BlackHole](https://github.com/Sangwan5688/BlackHole) & [BlockTheSpot](https://github.com/mrpond/BlockTheSpot))
-- Multimedia Player - [VLC](https://www.videolan.org/vlc/)
+- ✨ [Czkawka](https://github.com/qarmin/czkawka) - A Powerful, Multi functional app to find duplicates, empty folders, similar images etc.
 - Torrent Client - [qBittorrent](https://www.qbittorrent.org/) + [qBitTorrent Search](https://github.com/qbittorrent/search-plugins)
 - DLL Downloader - [JDownloader2](https://jdownloader.org/jdownloader2)
+- [Twinkle Tray](https://github.com/xanderfrangos/twinkle-tray) - Seprate Brightness Sliders for each monitor
+- Because Audiophile [Spotify](https://www.spotify.com/) (alt. [BlackHole](https://github.com/Sangwan5688/BlackHole) & [BlockTheSpot](https://github.com/mrpond/BlockTheSpot))
+- Multimedia Player - [VLC](https://www.videolan.org/vlc/)
 - Notion - [Notion Enhancer](https://notion-enhancer.github.io/) (alt. [Appflowy](https://github.com/AppFlowy-IO/appflowy))
 - [Search Deflector](https://github.com/spikespaz/search-deflector) - Redirects Cortana to the default web browser
 - Audio Converter - [Recode](https://github.com/murgatt/recode-converter)
 - [Ventoy](https://github.com/ventoy/Ventoy) - Create Multibootable USB
 - EPUB Reader - [Thorium Reader](https://github.com/edrlab/thorium-reader)
+- [Szyszka](https://github.com/qarmin/szyszka) - Powerful Bulk File Renamer
 - 🔸 [Desk Pins](https://efotinis.neocities.org/deskpins/) - for Pinning Windows
 - ❌ [Modern Flyout](https://github.com/ModernFlyouts-Community/ModernFlyouts) - Changes the windows flyout UI
-- ❌ [Files](https://github.com/files-community/files/) & [xplorer](https://github.com/kimlimjustin/xplorer) - An alternative to File Explorer with Fluent Design
+- ❌ [Files](https://github.com/files-community/files/) & [xplorer](https://github.com/kimlimjustin/xplorer) & [Sigma](https://github.com/aleksey-hoffman/sigma-file-manager) - An alternative to File Explorer with Fluent Design
 
 
 #### Visual Studio Code Extensions
@@ -148,3 +163,8 @@
     - [Atome One Light Pro](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight)
     - [Horizon Extended](https://marketplace.visualstudio.com/items?itemName=LanceWilhelm.horizon-extended)
     - [True Dark Github Theme](https://marketplace.visualstudio.com/items?itemName=MayowaPitan.true-dark-github-theme)
+    - [Wal Theme](https://github.com/dlasagno/vscode-wal-theme)
+- Fonts (used in VSC & Terminal) 
+    > All of them are from [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts/) 
+    - [Fira Code](https://github.com/ryanoasis/nerd-fonts/releases/latest)
+    - [Hack](https://github.com/ryanoasis/nerd-fonts/releases/latest)
