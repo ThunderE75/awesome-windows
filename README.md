@@ -4,7 +4,7 @@
 <!-- ## Table of Contents -->
 
 <!-- how the fuck do i add this ? -->
-## My version for [Awesome Windows](https://github.com/Awesome-Windows/Awesome) + [Awesome Android](https://github.com/JStumpp/awesome-android)
+## My version for [Awesome Windows](https://github.com/Awesome-Windows/Awesome) 
 
 ### Legend 
 
@@ -34,34 +34,13 @@
     Session ID: Soon™ 
 </details>
 
-## Android Apps
-
-- 2FA Client - [Authy](https://authy.com/) (alt. [Aegis](https://github.com/beemdevelopment/Aegis))
-- Discord Client - [Original](https://discord.com/download) & [Allucord](https://github.com/Aliucord/Aliucord) (alt. [Bluecord](https://bluesmods.com/bluecord/))
-- Reddit Client - [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit)
-- Telegram Client - [Nekogram X](https://github.com/NekoX-Dev/NekoX)
-- Instagram Client - [Instander](https://thedise.me/instander/) (alt. 💢 [BarInsta](https://github.com/PsyGik/barinsta))
-- YouTube Replacement - [Vanced](https://vancedapp.com/) & [NewPipe](https://github.com/TeamNewPipe/NewPipe)
-- Podcast Client - [Pocket Casts](https://www.pocketcasts.com/) (alt. 💢 [AntennaPod](https://antennapod.org/))
-- Android Marketplace - 💢 [F-Droid](https://f-droid.org/) & [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore)
-- 🔸 Twitter Client - 
-- 🔸 Email Client - [Outlook](https://play.google.com/store/apps/details?id=com.microsoft.office.outlook) & [Spark](https://sparkmailapp.com/) & 💢 [Proton Mail](https://protonmail.com/)
-- 🔸 Money Management App - [Bluecoin](https://www.bluecoinsapp.com/) (alt. 💢 [My Expenses](https://github.com/mtotschnig/MyExpenses))
-- Wallet - [Cake Wallet](https://cakewallet.com/)
-- Time Table Management - [School Planner](https://play.google.com/store/apps/details?id=daldev.android.gradehelper) (alt. [Tabby Native](https://github.com/KDani-99/tabby-native))
-- [Caffeine Tile](https://f-droid.org/en/packages/info.zwanenburg.caffeinetile/) - To Keep Screen Awake
-- 🔸 Bussiness Card Scanner - 💢 [Card Reader](https://github.com/gpadmaku1/card-reader)
-
-### Entertainment
-- Anime - [Web](https://github.com/anshumanv/awesome-anime-sources) (alt. ❌ [AnimeXStream](https://github.com/mukul500/AnimeXStream))
-
 ## Web Related
 
 ### Web Browser
 
 - [Brave](https://brave.com/) prefered for both web & mobile browsers
 - ❌ [Firefox](https://firefox.com/) - Alternative Web Browser
-- [Edge (Chromium)](https://www.microsoft.com/en-us/edge) - **With Telemetry Disabled** *(as much as possible)* Used just for Research (because of Smoothness & Native Vertical Tabs)
+- [Edge (Chromium)](https://www.microsoft.com/en-us/edge) - **With Telemetry Disabled** *(as much as possible)* Only used for Research (because of Smoothness & Native Vertical Tabs)
 > I have not tried [Vivaldi](https://vivaldi.com/), it's allegedly a good browser (but it's not completely Open Source)
 
 ### Useful Websites
@@ -119,6 +98,7 @@
 - ✨ [Czkawka](https://github.com/qarmin/czkawka) - A Powerful, Multi functional app to find duplicates, empty folders, similar images etc.
 - Torrent Client - [qBittorrent](https://www.qbittorrent.org/) + [qBitTorrent Search](https://github.com/qbittorrent/search-plugins)
 - DLL Downloader - [JDownloader2](https://jdownloader.org/jdownloader2)
+- ✨ Better Preview - [Quicklook](https://github.com/QL-Win/QuickLook) + [Plugins](https://github.com/QL-Win/QuickLook/wiki/Available-Plugins)
 - [Twinkle Tray](https://github.com/xanderfrangos/twinkle-tray) - Seprate Brightness Sliders for each monitor
 - Because Audiophile [Spotify](https://www.spotify.com/) (alt. [BlackHole](https://github.com/Sangwan5688/BlackHole) & [BlockTheSpot](https://github.com/mrpond/BlockTheSpot))
 - Multimedia Player - [VLC](https://www.videolan.org/vlc/)
